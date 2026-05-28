@@ -103,7 +103,7 @@
     <string name="login_managed_config_info_html"><![CDATA[Sie verwenden eine von <i>%s</i> bereitgestellte automatische Konfiguration.]]></string>
     <string name="login_managed_config_waiting">Auf verwaltete Konfiguration warten …</string>
     <string name="login_managed_config_it_department">Sie wissen nicht, was zu tun ist? Kontaktieren Sie Ihre IT-Abteilung.</string>
-    <string name="login_managed_config_not_private"><![CDATA[Diese App ist <a href="%1$s">für Organisationen vorgesehen</a> und nicht für Privatanwender. Sie können <a href="%2$s">eine kostenlose Testlizenz abrufen</a>.]]></string>
+    <string name="login_managed_config_not_private"><![CDATA[Diese App ist <a href="%1$s">für Organisationen</a> und nicht für die private Anwendung gedacht. Sie können <a href="%2$s">eine kostenlose Testlizenz abrufen</a>.]]></string>
     <string name="login_managed_config_please_log_in">Bitte einloggen</string>
     <string name="login_managed_config_select_certificate_info">Ein Client-Zertifikat auswählen, das zur Authentifizierung genutzt werden soll.</string>
     <string name="login_managed_config_certificate_selected">Das Client-Zertifikat %s wird zur Authentifizierung genutzt werden.</string>
