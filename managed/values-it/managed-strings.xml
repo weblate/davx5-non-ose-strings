@@ -71,7 +71,7 @@
     <string name="about_license_info_html"><![CDATA[Licensed for up to <i>%1$d utenti</i> che lavorano per <i>%2$s</i>.]]></string>
     <plurals name="about_license_domains">
         <item quantity="one">Destinato al dominio: %s</item>
-        <item quantity="many"/>
+        <item quantity="many">Destinato ai domini: %s</item>
         <item quantity="other">Destinato ai domini: %s</item>
     </plurals>
     <string name="about_license_valid_through">Licenza valida fino al: %s</string>
@@ -107,4 +107,7 @@
     <string name="managed_config_network_enter_url">Inserisci URL</string>
     <string name="managed_config_network_url">Questa app è gestita in rete tramite questo URL:</string>
     <string name="managed_config_network_config_url_cleared">URL di configurazione cancellata</string>
+    <string name="restriction_support_homepage_url_description">URL HTTP(S) della pagina di supporto (pagina Intranet che descrive come usare DAVx⁵)</string>
+    <string name="restriction_support_phone_number_description">Numero di telefono di supporto (formato: +1 234 5678901)</string>
+    <string name="login_managed_config_not_private"><![CDATA[Questa app è <a href="%1$s">destinata alle organizzazioni</a> e non agli utenti privati. Puoi <a href="%2$s">ottenne una licenza di prova gratuita</a>.]]></string>
 </resources>
