@@ -75,9 +75,9 @@
     <string name="restriction_show_only_personal">Mostra només col·leccions personals</string>
     <string name="restriction_show_only_personal_description">Si només es mostren col·leccions de la pròpia col·lecció de casa. null o -1 normalment significa que els usuaris poden triar-ho personalment.</string>
     <!-- notifications -->
-    <string name="license_invalid">Llicència invàlida</string>
-    <string name="license_unlicensed_host_name">L\'amfitrió no es cobreix amb la llicència</string>
-    <string name="license_contact_it_support">Contacta amb el teu departament d\'IT</string>
+    <string name="license_invalid">Llicència no vàlida</string>
+    <string name="license_unlicensed_host_name">L\'amfitrió no està cobert per la llicència</string>
+    <string name="license_contact_it_support">Contacta amb el departament de tecnologia informàtica</string>
     <string name="license_contact_it_support_email">Correu electrònic</string>
     <string name="license_contact_it_support_phone">Truca al suport</string>
     <!-- LicenseChecker -->
@@ -99,7 +99,7 @@
         <item quantity="many">Configurat per als dominis: %s</item>
         <item quantity="other">Configurat per als dominis: %s</item>
     </plurals>
-    <string name="about_license_invalid_license">No s\'ha pogut trobar una llicència vàlida. Per favor, contacta amb el teu departament d\'IT.</string>
+    <string name="about_license_invalid_license">No s\'ha pogut trobar cap llicència vàlida. Per favor, contacta amb el departament de tecnologia informàtica.</string>
     <string name="about_license_valid_through">Llicència vàlida a través de: %s</string>
     <string name="login_managed_config_info_html"><![CDATA[Estàs fent servir una configuració automàtica distribuïda per <i>%s</i>.]]></string>
     <string name="login_managed_config_waiting">Esperant per a la configuració administrada …</string>
